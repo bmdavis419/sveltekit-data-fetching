@@ -16,3 +16,13 @@ DATABASE_URL="libsql://..."
 4. Push your schema `bunx drizzle-kit push`
 5. Fill in some fake data from the turso console if you want to
 6. Start the dev server `bun run dev`
+
+### Diagrams from Video
+
+**Ways to fetch data:**
+
+![diagram](./static/sveltekit%20data%20fetching.png)
+
+**Data and rendering trees:**
+
+![diagram](./static/sveltekit%20trees.png)

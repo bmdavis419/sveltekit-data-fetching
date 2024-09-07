@@ -8,4 +8,6 @@
 
 <h3>Layout data</h3>
 
-{data.fakeLayoutData.toString()}
+<p>{data.fakeLayoutData.toString()}</p>
+
+<p>ARRAY LENGTH: {data.fakeLayoutDataLength}</p>
