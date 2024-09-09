@@ -1,5 +1,7 @@
 ## SvelteKit Data Fetching Example
 
+VIDEO: https://youtu.be/j9Wf_nyKin4
+
 _To replicate this project locally you will need a free turso account for the database_
 
 ### Getting Started
